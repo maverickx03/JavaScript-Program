@@ -38,6 +38,6 @@ function printArray(arr, n)
 	insertionSort(arr, n);
 	printArray(arr, n);
 	
-// This code is contributed by Mayank Tyagi
+
 	
 </script>
